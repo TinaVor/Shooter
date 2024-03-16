@@ -1,4 +1,4 @@
-![UML Диаграмма](https://github.com/TinaVor/Shooter/assets/98979211/0c471a39-e492-4ecf-9a13-f9af564c911b)# Shooter
+# Shooter
 
 После запуска игры пользователь видит Главное меню.
 
